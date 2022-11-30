@@ -1,0 +1,7 @@
+glucose = float(input('Hello, please input your : '))
+BloodPressure = float(input('Input your current blood pressure: '))
+Insulin = float(input('Input your current insulin state: '))
+weight = float(input('Please input your weight: '))
+height = float(input('Please input your height: '))
+final = weight*1.0/(height*height)
+age = int(input('Input your age: '))

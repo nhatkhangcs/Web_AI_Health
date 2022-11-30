@@ -1,0 +1,3 @@
+name,sex,age,eating-incresing-rate,drinking-increasing-rate,lose-weight-rate,urinate-incresing-rate,result-type
+Khang,M,19,Y,Y,Y,Y,2
+
